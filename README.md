@@ -4,6 +4,8 @@
 
 This Tableau project is a **Sales Rep Performance Tracker** built using data from the fictional "Superstore" dataset. The dashboard provides a comprehensive overview of sales representatives' performance across multiple years and regions, with key KPIs such as commission, return rate, and profit margin.
 
+<img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/cd91478d-4f8a-4e83-8523-f6e6f1baf5a6" />
+
 ## 🧾 Key Features
 
 - **Sales Rep Performance Tracking**  
