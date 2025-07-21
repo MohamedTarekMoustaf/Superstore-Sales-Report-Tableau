@@ -34,7 +34,7 @@ This Tableau project is a **Sales Rep Performance Tracker** built using data fro
 ## 🛠️ Tools Used
 
 - **Tableau Desktop Public Edition**
-- Sample Dataset: Superstore ([Tableau default dataset](https://www.kaggle.com/datasets/yesshivam007/superstore-dataset))
+- Sample Dataset: Superstore ((https://www.kaggle.com/datasets/yesshivam007/superstore-dataset))
 
 ## 📈 Purpose
 
